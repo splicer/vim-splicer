@@ -8,7 +8,7 @@ if has("autocmd")
 endif
 set hlsearch
 set incsearch
-"set spell
+set spell
 set number
 set ruler
 set hidden
