@@ -12,6 +12,7 @@ set spell
 set number
 set ruler
 set hidden
+set nojoinspaces
 
 nmap ;mm :make<cr>
 nmap ;ma :!make all<cr>
